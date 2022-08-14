@@ -38,7 +38,34 @@ nav a:hover
     color: #c78c19;
     text-decoration: underline;
 }
+.servicio{
+    text-align: center;
+    color: black;
+    padding: 2%;
+    font-size: 25px;
+    font-weight: bold;
+}
 
+.lisservice{
+    text-align: center;
+    color: black ;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 0 15px;
+    vertical-align: top;
+    
+}
+.lisservice li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 22px;
+    box-sizing: border-box;
+    border:2px solid black;
+    border-radius: 10px;
+}
 
 
 /*footer section*/
@@ -46,12 +73,12 @@ footer
 {
     text-align: center;
     background: url(imagenes/bg.jpg);
-    padding:40px ;
+    padding:50px ;
 }
 
 .copyright
 {
     color:black;
     font-size: 13px;
-    margin: 20px;
+    margin: 25px;
 }
