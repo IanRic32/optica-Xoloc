@@ -74,7 +74,20 @@ nav a:hover
 }
 
 /*Section to register clients*/
-
+.registro{
+    padding: 2%;
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 2%;
+    color: blue;
+}
 
 
 
@@ -115,7 +128,7 @@ footer
 
 .copyright
 {
-    color:black;
+    color:white;
     font-size: 13px;
     margin: 25px;
 }
