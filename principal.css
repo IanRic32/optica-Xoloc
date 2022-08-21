@@ -90,34 +90,9 @@ h1{
 }
 
 
-
-
-
-
-/*Section to ubication*/
-
-.ubication{
-    text-align: center;
-    font-weight: bold;
-    font-size: 25px;
-    padding: 2%;
-}
-
-#ubication1{
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
-}
-#ubication2{
-    font-size: 20px;
-    text-align: center;
-    padding: 2%;
-    color: black;
-    text-decoration: none;
-}
-
 .mapa{
-    padding: 3em o;
+    padding: 3em 0;
+    text-align: center;
 }
 .mapa p{
     margin:0 0 2em;
